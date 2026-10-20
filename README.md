@@ -1,11 +1,11 @@
 # CS2-Rivas-Gene-Wade
 
-#Electricity bill calculator
+# Electricity bill calculator
 
-##Description
+## Description
 this program compute the user electricity bill.
 
-##Version 1 – Original code without
+## Version 1 – Original code without
 input validation,
 
 -Input: Accepts the user's name , previous and current reading.
